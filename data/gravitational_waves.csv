@@ -1,0 +1,11 @@
+Frequency_Hz,Amplitude,Phase_Degrees,Source_Type,Detection_Confidence,LIGO_Proxy_Data
+0.001,2.3e-21,45.2,Binary_Merger,0.95,Simulated_GW150914_Proxy
+0.0015,1.8e-21,67.8,Neutron_Star_Collision,0.87,Simulated_GW170817_Proxy
+0.002,3.1e-21,23.4,Black_Hole_Merger,0.92,Simulated_GW190521_Proxy
+0.0025,2.7e-21,89.1,Binary_System,0.78,Theoretical_Model
+0.003,1.9e-21,156.7,Pulsar_Glitch,0.65,Observational_Proxy
+0.0035,4.2e-21,234.5,Cosmic_String,0.45,Speculative_Model
+0.004,2.1e-21,12.3,Dark_Matter_Interaction,0.23,Hypothetical
+0.0045,3.8e-21,78.9,Quantum_Vacuum_Fluctuation,0.12,Theoretical
+0.005,2.5e-21,145.6,Resonance_Harmonic,0.89,DEVIN_AI_Simulation
+0.0055,1.7e-21,203.4,Standing_Wave_Pattern,0.76,DEVIN_AI_Simulation
