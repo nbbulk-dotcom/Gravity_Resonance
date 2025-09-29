@@ -1,4 +1,7 @@
-GRAVITATIONAL DECOUPLING: THE ULTIMATE RESONANCE MECHANISM A Revolutionary Framework for Controlled Gravitational Levitation
+GRAVITATIONAL DECOUPLING: THE ULTIMATE RESONANCE MECHANISM 
+
+A Revolutionary Framework for Controlled Gravitational Levitation
+
 ABSTRACT
 We present the CMYK gravitational coupling framework, where C (Cyan), M (Magenta), Y (Yellow) represent the three fundamental quantum coupling mechanisms, and K (Key/Black) represents the ultimate resonance state—a finite, measurable black hole-like resonance that enables complete gravitational decoupling. Our comprehensive quantum coupling experiments have revealed that when minimal energy is precisely focused on balancing the gravitational field between two objects, they immediately decouple, requiring only minimal additional energy to achieve sustained levitation.
 THE CMYK FRAMEWORK
@@ -34,3 +37,5 @@ REVOLUTIONARY IMPLICATIONS:
     • Reactionless space propulsion
     • Gravitational energy generation
 CONCLUSION: We stand at the threshold of the gravitational age. The CMYK framework transforms gravity from immutable force to controllable field phenomenon, enabling practical gravitational engineering through quantum coupling manipulation.
+
+https://manus.im/share/cB4cwwil4L7SnGRvYJSXAK?replay=1
