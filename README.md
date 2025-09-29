@@ -38,6 +38,36 @@ REVOLUTIONARY IMPLICATIONS:
     • Gravitational energy generation
 CONCLUSION: We stand at the threshold of the gravitational age. The CMYK framework transforms gravity from immutable force to controllable field phenomenon, enabling practical gravitational engineering through quantum coupling manipulation.
 
+## Empirical Upgrades
+
+This repository now includes empirical-only simulation codes for gravity proof completion. The empirical upgrades provide lab-reproducible protocols using only observable, measurable quantities.
+
+### Usage
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+2. Run empirical resonance processor with lab data:
+```bash
+python empirical_upgrades/empirical_resonance_processor.py --input lab_resonance_data.csv --config empirical_upgrades/config.yaml
+```
+
+3. Expected input CSV columns:
+- time: Timestamp measurements
+- accel: Acceleration sensor data
+- temp_K: Temperature traces in Kelvin
+- separation_um: Separation distance in micrometers
+- material_id: Material identifier (Gold, Aluminum, Silicon)
+- density_kg_m3: Measured density values
+- force_ratio: Measured force ratios (measured/baseline)
+
+4. Output: `empirical_resonance_proof.csv` with empirical ratios for gravity decoupling validation
+
+### Lab Duplication
+Use torsional balances, cryogenic chambers (4.2K), RF plasma systems, and vibration sensors to collect data matching the simulation inputs. Export lab data as CSVs and feed them into the code for identical processing.
+
 https://manus.im/share/cB4cwwil4L7SnGRvYJSXAK?replay=1
 
 https://manus.im/share/MjnQ2UEuaM9UsYUGnQ5RI9?replay=1
